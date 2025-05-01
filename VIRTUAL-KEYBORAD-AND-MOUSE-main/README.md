@@ -1,18 +1,4 @@
-# AI-keyboard-And-AI-Mouse
-A module that is uses OpenCV to capture hand gestures and perform mouse and keyboard function virtually
+ Virtual Mouse and Keyboard 
+🎯 Objective:
+The aim of this project is to develop a Virtual Mouse and Keyboard Controller using hand gestures, captured in real-time via a webcam. This system utilizes OpenCV, MediaPipe, and other supporting libraries to recognize specific hand gestures and map them to mouse movements, mouse clicks, and keyboard key presses, effectively replacing traditional input devices.
 
-download any Python compiler
-1.Spyder
-2.jupyter
-
-install pip latest version 
-
-open command prompt and add libraries to the respective compiler file location
-
-pip install openCV
-pip install autopy
-pip install mediapipe
-pip install numpy
-pip install pynput.keyboard
-
-After installing all the libararies launch the virtualkeybaord.py file
